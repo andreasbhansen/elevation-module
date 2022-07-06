@@ -29,7 +29,7 @@
     "@turf/helpers": "^6.1.4",
     "@turf/length": "^6.0.2",
     "chart.js": "^2.9.3",
-    "turf-along": "github:ctyo/turf-along#complement_elevation"
+    "turf-along": "6.5.0"
   },
   "devDependencies": {
     "requirejs": "^2.3.6",
